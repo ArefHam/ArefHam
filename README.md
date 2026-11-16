@@ -11,8 +11,7 @@ Portfolio with case studies: **[aref.eveai.cloud](https://aref.eveai.cloud)**
 | **Sila** (صلة) | Talking desk robot: ESP32-S3, its own voice server, a body generated in Python and 3D-printed. Speaks Lebanese Arabic. | Worked an expo stand |
 | **HMC Store** | Offline-first shop system (till, stock, serials, debts, VAT, labels) with field-level shop-to-cloud sync. | Live |
 | **HD-GNN** | Hierarchical dynamic GNN for extractive summarization of customer-support dialogues (TweetSumm). | Paper in preparation |
-| **Lebanon News Bot** | 40+ Lebanese outlets into short Arabic briefs on Telegram, with per-call cost logging and budget alerts. | Running daily |
-| **[Breastfeeding Chat](https://github.com/ArefHam/breastfeedingchat)** | Persian/English RAG assistant for breastfeeding questions. | [Live](https://chat.eveai.cloud) |
+| **Breastfeeding Chat** | Persian/English RAG assistant for breastfeeding questions. | Live |
 | **CouBank** | A shared money app for couples. | [Live](https://coubank.eveai.cloud) |
 
 Most of my code is private because it runs real businesses. The [portfolio](https://aref.eveai.cloud) shows what each project does and how it's built.
