@@ -1,6 +1,6 @@
 ### Hi, I'm Aref 👋
 
-**AI researcher who ships.** I'm doing a PhD in AI on graph neural networks that summarize conversations, and I build AI products that run every day in Lebanon under my studio, [EveAI](https://eveai.cloud).
+**AI researcher who ships.** I'm doing a PhD in AI (graph neural networks, NLP), and I build AI products that run every day in Lebanon under my studio, [EveAI](https://eveai.cloud).
 
 Portfolio with case studies: **[aref.eveai.cloud](https://aref.eveai.cloud)**
 
@@ -10,7 +10,6 @@ Portfolio with case studies: **[aref.eveai.cloud](https://aref.eveai.cloud)**
 |---|---|---|
 | **Sila** (صلة) | Talking desk robot: ESP32-S3, its own voice server, a body generated in Python and 3D-printed. Speaks Lebanese Arabic. | Worked an expo stand |
 | **HMC Store** | Offline-first shop system (till, stock, serials, debts, VAT, labels) with field-level shop-to-cloud sync. | Live |
-| **HD-GNN** | Hierarchical dynamic GNN for extractive summarization of customer-support dialogues (TweetSumm). | Paper in preparation |
 | **Breastfeeding Chat** | Persian/English RAG assistant for breastfeeding questions. | Live |
 | **CouBank** | A shared money app for couples. | [Live](https://coubank.eveai.cloud) |
 
@@ -18,7 +17,7 @@ Most of my code is private because it runs real businesses. The [portfolio](http
 
 #### What I work with
 
-- **Research:** graph neural networks, extractive summarization, dialogue modelling, self-supervised pretraining
+- **Research:** graph neural networks, NLP, self-supervised learning
 - **Applied AI:** RAG, agents and tool use, voice, cost control, Arabic and Persian text
 - **Software:** Python (FastAPI, PyTorch), TypeScript (React, Next.js, Node), PostgreSQL, SQLite, Supabase
 - **Hardware and ops:** ESP32-S3, 3D printing from code, Docker, Coolify, GitHub Actions, n8n
