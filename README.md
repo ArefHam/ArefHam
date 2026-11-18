@@ -1,6 +1,6 @@
 ### Hi, I'm Aref 👋
 
-**AI researcher who ships.** I'm doing a PhD in AI (graph neural networks, NLP), and I build AI products that run every day in Lebanon under my studio, [EveAI](https://eveai.cloud).
+**AI researcher who ships.** I'm doing a PhD in AI (graph neural networks, NLP), and I build AI products that run every day in Lebanon under [EveAI](https://eveai.cloud): a philosophy for working with AI ("AI is not the mind, it's the womb") that grew into apps for small businesses and an academy.
 
 Portfolio with case studies: **[aref.eveai.cloud](https://aref.eveai.cloud)**
 
