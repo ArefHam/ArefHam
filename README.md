@@ -11,6 +11,7 @@ Portfolio with case studies: **[aref.eveai.cloud](https://aref.eveai.cloud)**
 | **Sila** (صلة) | Talking desk robot: ESP32-S3, its own voice server, a body generated in Python and 3D-printed. Speaks Lebanese Arabic. | Worked an expo stand |
 | **HMC Store** | Offline-first shop system (till, stock, serials, debts, VAT, labels) with field-level shop-to-cloud sync. | Live |
 | **Breastfeeding Chat** | Persian/English RAG assistant for breastfeeding questions. | Live |
+| **Zeinai** | A Lebanese AI character: one identity, reference sheets, and a prompt system that keeps her the same person in every photo, reel and ad. | [Live](https://eveai.cloud/zeinai) |
 | **CouBank** | A shared money app for couples. | [Live](https://coubank.eveai.cloud) |
 
 Most of my code is private because it runs real businesses. The [portfolio](https://aref.eveai.cloud) shows what each project does and how it's built.
@@ -25,4 +26,4 @@ Most of my code is private because it runs real businesses. The [portfolio](http
 #### Get in touch
 
 Open to remote AI/ML roles, AI consulting, research collaborations, and building AI products for businesses.
-[LinkedIn](https://www.linkedin.com/in/aref-hammadi10) · [EveAI](https://eveai.cloud)
+Roles and research: [LinkedIn](https://www.linkedin.com/in/aref-hammadi10) · A project for your business: [WhatsApp](https://wa.me/96178996408) · An AI character for your brand: [@zeinai0](https://instagram.com/zeinai0)
