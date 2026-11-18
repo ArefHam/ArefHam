@@ -24,5 +24,5 @@ Most of my code is private because it runs real businesses. The [portfolio](http
 
 #### Get in touch
 
-Open to remote AI/ML roles, research collaborations, and building AI products for businesses.
+Open to remote AI/ML roles, AI consulting, research collaborations, and building AI products for businesses.
 [LinkedIn](https://www.linkedin.com/in/aref-hammadi10) · [EveAI](https://eveai.cloud)
