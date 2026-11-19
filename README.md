@@ -9,6 +9,7 @@ Portfolio with case studies: **[aref.eveai.cloud](https://aref.eveai.cloud)**
 | Project | What it is | Status |
 |---|---|---|
 | **Sila** (صلة) | Talking desk robot: ESP32-S3, its own voice server, a body generated in Python and 3D-printed. Speaks Lebanese Arabic. | Worked an expo stand |
+| **Mizan Glucose** (ميزان للسكّري) | Arabic-first companion app for people with diabetes on FreeStyle Libre: alarms, "low soon", family wake-up calls, meal impact, doctor report. Android, Wear OS, Windows. | In testing |
 | **HMC Store** | Offline-first shop system (till, stock, serials, debts, VAT, labels) with field-level shop-to-cloud sync. | Built |
 | **Breastfeeding Chat** | Persian/English RAG assistant for breastfeeding questions. | Live |
 | **Zeinai** | A Lebanese AI character: one identity, reference sheets, and a prompt system that keeps her the same person in every photo, reel and ad. | [Live](https://eveai.cloud/zeinai) |
